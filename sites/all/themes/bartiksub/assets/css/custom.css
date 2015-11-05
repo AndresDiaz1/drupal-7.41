@@ -1,0 +1,13 @@
+#header {
+	background-color: #3E7F9D;
+	background-image: -moz-linear-gradient(top, #3E7F9D 0%, #3E7F9D 100%);
+}
+
+#footer-wrapper {
+	background-color: #D7EDF2;
+	background-image: -moz-linear-gradient(top, #D7EDF2 0%, #D7EDF2 100%);
+}
+
+#prueba{
+	color: blue;
+}

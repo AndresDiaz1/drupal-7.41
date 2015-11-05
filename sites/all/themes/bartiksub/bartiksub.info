@@ -4,6 +4,13 @@ core=7.x
 
 base theme=bartik
 
+; CCS
+stylesheets[all][] = assets/css/custom.css
+stylesheets[print][] = assets/css/print.css
+stylesheets[screen and (max-width: 600px)][] = assets/css/media.css
+
+regions[custom] = Custom
+
 regions[header] = Header
 regions[help] = Help
 regions[page_top] = Page top
