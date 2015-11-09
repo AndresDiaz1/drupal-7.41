@@ -2,6 +2,15 @@
 	background-color: #3E7F9D;
 }
 
+.header > * {
+	display: inline-block;
+}
+
+.footer .image {
+	max-width: 20%;
+	margin-top: 1.5em;
+}
+
 .header .search-form {
 	float: right;
 }
